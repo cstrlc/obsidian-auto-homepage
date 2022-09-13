@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-auto-homepage",
+  "name": "Auto Homepage",
+  "version": "0.0.1",
+  "minAppVersion": "0.15.0",
+  "description": "",
+  "author": "Lucas Castro",
+  "authorUrl": "https://lucascastro.dev",
+  "isDesktopOnly": false
+}
